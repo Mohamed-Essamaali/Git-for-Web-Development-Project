@@ -72,7 +72,7 @@ Answers:
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
 	==> rm fileName. Not recoverable, it is gone forever
     34. Why should I use version control? 
-	==>
+	==> to keep tracking changes in case we need to go back to previous versions
     35. How often should I commit to github?
 	==> anytime make changes 
     36. What is the command we would use to push our repo up to github? 
